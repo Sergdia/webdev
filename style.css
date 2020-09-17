@@ -1,0 +1,43 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    
+}
+
+body {
+    width: 1600px;
+    display: block;
+    margin: auto;
+}
+
+header {
+    background-color: black;
+    font-size: 14px;
+    position: absolute;
+    width: 1600px;
+    height: 95px;
+
+}
+
+Your_Life {
+    display: block;
+    background-image: url(/assets/bg-image-wrapper.png);
+    width: 1600px;
+    height: 744px;
+    left: 0px;
+    top: 0px;
+  }
+
+li a {
+    color: white;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+  }
+
+  li a:hover {
+    border-bottom: 2px solid white;
+  }
