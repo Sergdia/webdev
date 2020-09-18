@@ -36,7 +36,7 @@ header li a:hover {
 
 your_Life {
     display: block;
-    background-image: url(https://github.com/Sergdia/webdev/tree/master/assets/bg-image-wrapper.png);
+    background-image: url(https://raw.githubusercontent.com/Sergdia/webdev/master/assets/bg-image-wrapper.png);
     width: 1600px;
     height: 744px;
     left: 0px;
@@ -284,7 +284,7 @@ content_image {
   left: 923px;
   top: -63px;
 
-background: url(/assets/content-image-1.png)
+background: url(https://raw.githubusercontent.com/Sergdia/webdev/master/assets/content-image-1.png)
 }
 
 our_community {
@@ -525,7 +525,7 @@ subscribe  {
   width: 1600px;
   height: 598px;
 
-  background-image: url(/assets/pexels-christina-morillo-1181675\ 1.png);
+  background-image: url(https://raw.githubusercontent.com/Sergdia/webdev/master/assets/pexels-christina-morillo-1181675\ 1.png);
 
 }
 
