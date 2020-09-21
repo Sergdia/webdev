@@ -52,7 +52,7 @@ your_Life {
     position: relative;
     width: 184px;
     height: 46px;
-    left: 708px;
+    left: 707px;
     top: 281px;
 
     outline:none;
@@ -98,8 +98,8 @@ your_Life {
   position: relative;
   width: 735px;
   height: 75px;
-  left: 436px;
-  top: 229px;
+  left: 435px;
+  top: 230px;
                     
                     
   font-weight: bold;
@@ -122,7 +122,7 @@ your_Life {
   width: 504px;
   height: 50px;
   left: 548px;
-  top: 253px;
+  top: 251px;
                     
   font-family: Roboto;
   font-style: normal;
@@ -186,7 +186,7 @@ content_block title {
   font-style: normal;
   font-weight: bold;
   font-size: 24px;
-  line-height: 28px;
+  line-height: 29px;
   display: flex;
   align-items: flex-end;
   letter-spacing: 1px;
@@ -211,7 +211,7 @@ content_block text {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 146%;
+  line-height: 144%;
   /* or 20px */
 
 
@@ -267,14 +267,7 @@ position: relative;
 background-color: #009CC2;
 }
 
-image_phone_hand {
-  display: block;
-  position: relative;
-  width: 625px;
-  height: 381px;
-  left: 815px;
-  top: -645px;
-}
+
 
 content_image {
   display: block;
@@ -320,8 +313,8 @@ our_community title {
     position: relative;
     width: 170px;
     height: 19px;
-    left: 68px;
-    top: 14px;
+    left: 69px;
+    top: 15px;
     font-family: Roboto;
     font-style: normal;
     font-weight: 500;
@@ -340,8 +333,8 @@ our_community text {
   position: relative;
   width: 298px;
   height: 81px;
-  left: -1px;
-  top: 23px;
+  left: 0px;
+  top: 25px;
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
@@ -359,7 +352,7 @@ slider_items {
   width: 1350px;
   height: 244px;
   left: 706px;
-  top: -57px;
+  top: -55px;
   
 
 }
@@ -387,25 +380,25 @@ navitems {
 
 navitems button_5 {
   position: relative;
-  top: 2px;
+  top: 1px;
   left: -2px;
-  opacity: 50%;
+  opacity: 100%;
   
 }
 
 navitems button_5:hover {
-  opacity: 100%;  
+  opacity: 50%;  
 }
 
 navitems button_6 {
   position: relative;
   top: 1px;
   left: 6px;
-  opacity: 50%;
+  opacity: 100%;
 }
 
 navitems button_6:hover {
-  opacity: 100%;  
+  opacity: 50%;  
 
 }
 
@@ -464,7 +457,7 @@ content-block text {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 140%;
+  line-height: 143%;
   /* or 20px */
   
   
@@ -535,7 +528,7 @@ form{
   height: 104px;
   left: 597px;
   top: 217px;
-  border: 1px solid black;
+
 }
 
 form title {
@@ -544,7 +537,7 @@ form title {
   width: 382px;
   height: 28px;
   left: 13px;
-  top: 0px;
+  top: -1px;
 
   /* h2-24-bold */
 
@@ -603,6 +596,7 @@ form email_form input {
   outline:none;
 
 }
+
 
 download {
   position: absolute;
@@ -749,7 +743,7 @@ footer nav_items {
   width: 273px;
   height: 16px;
   left: 160px;
-  top: 75px;
+  top: 74px;
   display: flex;
   float: left;
   
@@ -769,7 +763,7 @@ opacity: 0.98;
 
 footer nav_items a {
   color: white;
-  margin-right: 18px;
+  margin-right: 20px;
   text-decoration: none;
   opacity: 90%;
 }
